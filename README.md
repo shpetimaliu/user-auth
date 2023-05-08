@@ -56,7 +56,7 @@ The userRepository class contains several methods to manipulate user data in a d
 
 # Installation
 
-    - git clone https://github.com/<username>/<repository-name>.git
+    - git clone https://github.com/shpetimaliu/user-auth.git
 
 # Install all necessary packages using npm:
 
@@ -138,7 +138,7 @@ Klasa userRepository përmban disa metoda për të manipuluar të dhënat e për
 
 # Instalimi
 
-    - git clone https://github.com/<username>/<repository-name>.git
+    - git clone https://github.com/shpetimaliu/user-auth.git
 
 # Instaloni të gjitha pako-të e nevojshme duke përdorur npm:
 
@@ -161,4 +161,6 @@ Klasa userRepository përmban disa metoda për të manipuluar të dhënat e për
 # Kontribo 👏
 
 Nëse dëshironi të kontriboni në projekt, mund të hapni një pull request në GitHub dhe unë do të shikoj ndryshimet tuaja. Ju faleminderit për interesin tuaj në projekt!
+
+# user-auth
 # user-auth
