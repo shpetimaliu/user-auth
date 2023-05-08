@@ -1,0 +1,15 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "prov@provo.com",
+    "password": "f34708806c08750b56ad6a6c825d735175bfd74754182bccf2a98ea43845f5511c3d5aaa5a2800f7f4d96e073c498edf6553e710f8069d35dc813c4500b9106c.1ab761aabca6c426",
+    "id": "7b9350b4"
+  },
+  {
+    "email": "shpetim@aliu.io",
+    "password": "5e7ad104ccd492a9ee4efbc6f55a0cf27d501d209a9bd713982b467765b2d0276af8003c13b95ab5ab6f76b944e5ac5278bcceb71459480429b0be87a0a0b1b9.e54c08a4a3661162",
+    "id": "3be2ac79"
+  }
+]
