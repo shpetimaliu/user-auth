@@ -162,5 +162,3 @@ Klasa userRepository përmban disa metoda për të manipuluar të dhënat e për
 
 Nëse dëshironi të kontriboni në projekt, mund të hapni një pull request në GitHub dhe unë do të shikoj ndryshimet tuaja. Ju faleminderit për interesin tuaj në projekt!
 
-# user-auth
-# user-auth
